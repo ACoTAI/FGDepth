@@ -15,7 +15,7 @@
 This repository will contain the official implementation of our progressive training paradigm for self-supervised monocular depth estimation. By explicitly addressing frequency aliasing with the **Frequency-Guided Sampling (FGS) block** and modeling fine-grained cross-frame motion with the **PoseQuery Network (PQNet)**, our method achieves state-of-the-art performance on the KITTI benchmark and demonstrates strong zero-shot generalization.
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/0f634a94-371e-4a00-8c4f-a0ead7f39619" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0f634a94-371e-4a00-8c4f-a0ead7f39619" />
 
 
 
