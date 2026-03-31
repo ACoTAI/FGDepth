@@ -18,7 +18,12 @@ This repository will contain the official implementation of our progressive trai
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/0f634a94-371e-4a00-8c4f-a0ead7f39619" />
 
 
+## 🙏 Acknowledgements
 
+We would like to thank the authors of the following outstanding open-source projects, whose codebases and insights have greatly inspired and facilitated this work:
+
+- **[MonoViT](https://github.com/zxcqlf/MonoViT)**
+- **[Monodepth2](https://github.com/nianticlabs/monodepth2)**
 
 
 ## 🎓 Citation
