@@ -14,8 +14,8 @@
 
 This repository will contain the official implementation of our progressive training paradigm for self-supervised monocular depth estimation. By explicitly addressing frequency aliasing with the **Frequency-Guided Sampling (FGS) block** and modeling fine-grained cross-frame motion with the **PoseQuery Network (PQNet)**, our method achieves state-of-the-art performance on the KITTI benchmark and demonstrates strong zero-shot generalization.
 
-**
-<img width="1132" height="628" alt="image" src="https://github.com/user-attachments/assets/0f634a94-371e-4a00-8c4f-a0ead7f39619" />
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/0f634a94-371e-4a00-8c4f-a0ead7f39619" />
 
 
 
@@ -28,7 +28,7 @@ If you find our work useful in your research, please consider citing:
 ```bibtex
 @inproceedings{cvpr2026depth,
   title={Seeing Depth Through Frequency and Motion: A Progressive Training Paradigm for Monocular Depth Estimation},
-  author={Ke Li, Bolin Song, Hongbo Liu},
+  author={Ke Li and Bolin Song and Hongbo Liu},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2026}
 }
